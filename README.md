@@ -1,162 +1,166 @@
+# **VPS_install**
+All in one place run the file and wait for an hour and all you good to go. Your VPS hacking machine is ready
 
-
-aron
+## aron
 github.com/m4ll0k/Aron
-SubOver
+
+## SubOver
 github.com/Ice3man543/SubOver
-OWASP-Nettacker
+
+## OWASP-Nettacker
 github.com/zdresearch/OWASP-Nettacker
-subzy : subdomain takeover checking
+
+## subzy : subdomain takeover checking
 github.com/lukasikic/subzy
-webanalyze
+## webanalyze
 github.com/rverton/webanalyze
-go-prompt
+## go-prompt
 github.com/c-bata/go-prompt
 github.com/hahwul/websocket-connection-smuggler
-subfinder
+## subfinder
 github.com/projectdiscovery/subfinder/cmd/subfinder
-chaos
+## chaos
 github.com/projectdiscovery/chaos-client/cmd/chaos
-httpx
+## httpx
 github.com/projectdiscovery/httpx/cmd/httpx
-dnsprobe
+## dnsprobe
 github.com/projectdiscovery/dnsprobe
-shuffledns
+## shuffledns
 github.com/projectdiscovery/shuffledns/cmd/shuffledns
-nuclei
+## nuclei
 github.com/projectdiscovery/nuclei/v2/cmd/nuclei
-gf
+## gf
 github.com/tomnomnom/gf
-httprobe
+## httprobe
 github.com/tomnomnom/httprobe
-hacks
+## hacks
 github.com/tomnomnom/hacks
-assetfinder
+## assetfinder
 github.com/tomnomnom/assetfinder
-waybackurls
+## waybackurls
 github.com/tomnomnom/hacks/waybackurls
-unfurl
+## unfurl
 github.com/tomnomnom/unfurl
-burl
+## burl
 github.com/tomnomnom/burl
-meg
+## meg
 github.com/tomnomnom/meg
-assetfinder
+## assetfinder
 github.com/tomnomnom/assetfinder
-fff
+## fff
 github.com/tomnomnom/fff
-filter-resolved
+## filter-resolved
 github.com/tomnomnom/hacks/filter-resolved
-gittrees
+## gittrees
 github.com/tomnomnom/hacks/gittrees
-waybackurls
+## waybackurls
 github.com/tomnomnom/hacks/waybackurls
-unisub
+## unisub
 github.com/tomnomnom/hacks/unisub
-hackshacks
+## hackshacks
 github.com/tomnomnom/hacks
-gf
+## gf
 github.com/tomnomnom/gf
-subjack: subdomain takeover checking
+## subjack: subdomain takeover checking
 github.com/haccer/subjack
-shhgit
+## shhgit
 github.com/eth0izzle/shhgit
-CHAOS is a payload genarator for reverse shell PoC
+## CHAOS is a payload genarator for reverse shell PoC
 github.com/tiagorlampert/CHAOS
-dalfox: xss tool
+## dalfox: xss tool
 github.com/hahwul/dalfox
-ffuf
+## ffuf
 github.com/ffuf/ffuf
-gau
+## gau
 github.com/lc/gau
-getJS
+## getJS
 github.com/003random/getJS
-goaltdns
+## goaltdns
 github.com/subfinder/goaltdns
-gobuster
+## gobuster
 github.com/OJ/gobuster
-gowitness
+## gowitness
 github.com/sensepost/gowitness
-gospider
+## gospider
 github.com/jaeles-project/gospider
-hakcheckurl
+## hakcheckurl
 github.com/hakluke/hakcheckurl
-hakrawler
+## hakrawler
 github.com/hakluke/hakrawler
-hakrevdns
+## hakrevdns
 github.com/hakluke/hakrevdns
 github.com/udit-thakkur/AdvancedKeyHacks
-keyhacks
+## keyhacks
 github.com/streaak/keyhacks
-Arjun
+## Arjun
 github.com/s0md3v/Arjun
-AutoSploit
+## AutoSploit
 github.com/NullArray/AutoSploit
-FavFreak
+## FavFreak
 github.com/devanshbatham/FavFreak
 
 github.com/MichaelStott/CRLF-Injection-Scanner
-brutex
+## brutex
 github.com/1N3/BruteX
-Hackersploit tools
+## Hackersploit tools
 github.com/AlexisAhmed/BugBountyTools
-BBvuln
+## BBvuln
 github.com/gwen001/BBvuln
-LFISuite
+## LFISuite
 github.com/D35m0nd142/LFISuite
-LinkFinder
+## LinkFinder
 github.com/GerbenJavado/LinkFinder
-PwnXSS
+## PwnXSS
 github.com/pwn0sec/PwnXSS
-XSpear
+## XSpear
 github.com/hahwul/XSpear
-CloudScraper
+## CloudScraper
 github.com/jordanpotti/CloudScraper
-SSRFmap
+## SSRFmap
 github.com/swisskyrepo/SSRFmap
-SecretFinder
+## SecretFinder
 github.com/m4ll0k/SecretFinder
 github.com/s0md3v/Striker
-ParamSpider
+## ParamSpider
 github.com/devanshbatham/ParamSpider
-osmedeus: atutomatic recon tool
+## osmedeus: atutomatic recon tool
 github.com/j3ssie/Osmedeus
-metabir
+## metabir
 github.com/j3ssie/metabigor
-NoSQLMap
+## NoSQLMap
 github.com/codingo/NoSQLMap
-SubDomainizer
+## SubDomainizer
 github.com/nsonaniya2010/SubDomainizer
-XSStrike
+## XSStrike
 github.com/s0md3v/XSStrike
-dirsearch
+## dirsearch
 github.com/maurosoria/dirsearch
-apkleaks
+## apkleaks
 github.com/dwisiswant0/apkleaks
-gmapsapiscanner
+## gmapsapiscanner
 github.com/ozguralp/gmapsapiscanner
-HTTP Request Smuggling detection tool by defparam
+## HTTP Request Smuggling detection tool by defparam
 github.com/defparam/smuggler
-HTTP Request Smuggling detection tool by epsylon
+## HTTP Request Smuggling detection tool by epsylon
 github.com/epsylon/Smuggler
 
 github.com/kowainik/smuggler
-crtsh
+## crtsh
 github.com/p4pentest/crtsh
-Theif
+## Theif
 github.com/XecLabs/Theif
-YashGoti
+## YashGoti
 github.com/YashGoti
-tplmap
+## tplmap
 github.com/epinna/tplmap
-wfuzz
+## wfuzz
 github.com/xmendez/wfuzz
-xssmap
+## xssmap
 github.com/secdec/xssmap
 github.com/hahwul/websocket-connection-smuggler
 github.com/rastating/wordpress-exploit-framework
 github.com/1ndianl33t/Gf-Patterns
 raw.githubusercontent.com/devanshbatham/ParamSpider/master/gf_profiles/potential.json
 raw.githubusercontent.com/Mad-robot/recon-tools/master/dicc.txt
-bheem
+## bheem
 github.com/harsh-bothra/Bheem
